@@ -1,0 +1,6 @@
+{
+  "name": "Work Well Admin Dashboard",
+  "description": "Dashboard Admin modern untuk Work Well - Platform Open Office Space Marketplace di Indonesia.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
